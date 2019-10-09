@@ -1,0 +1,60 @@
+﻿@model Nexawo.Application.Employees.Queries.GetEmployeeDetail.EmployeeDetailVM
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="EmployeeId" class="control-label small"></label>
+                <input asp-for="EmployeeId" class="form-control form-control-sm" readonly />
+                <span asp-validation-for="EmployeeId" class="text-danger small"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label small"></label>
+                <input asp-for="FirstName" class="form-control form-control-sm" />
+                <span asp-validation-for="FirstName" class="text-danger small"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label small"></label>
+                <input asp-for="LastName" class="form-control form-control-sm" />
+                <span asp-validation-for="LastName" class="text-danger small"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CNIC" class="control-label small"></label>
+                <input asp-for="CNIC" class="form-control form-control-sm" />
+                <span asp-validation-for="CNIC" class="text-danger small"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label small"></label>
+                <input asp-for="Email" class="form-control form-control-sm" />
+                <span asp-validation-for="Email" class="text-danger small"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label small"></label>
+                <input asp-for="Age" class="form-control form-control-sm" />
+                <span asp-validation-for="Age" class="text-danger small"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label small"></label>
+                <input asp-for="Address" class="form-control form-control-sm" />
+                <span asp-validation-for="Address" class="text-danger small"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary btn-sm">
+                    <i class="fa fa-save"></i> Save
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="List">Back to List</a>
+</div>
+

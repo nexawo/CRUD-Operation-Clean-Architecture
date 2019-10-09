@@ -1,0 +1,198 @@
+﻿
+@{
+    ViewData["Title"] = "Dynamic Objects - Generation";
+}
+<h5>Dynamic Objects - Generation</h5>
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-5">
+        <div class="form-group">
+            <label class="control-label  col-form-label-sm">Service</label>
+            @Html.DropDownList("service-name", new List<SelectListItem>
+            {
+                new SelectListItem {Text = "Service1", Value="Service1"  },
+                new SelectListItem {Text = "Service2", Value="Service2"  },
+                new SelectListItem {Text = "Service3", Value="Service3"  },
+
+            }, new { @class = "form-control form-control-sm" })
+        </div>
+    </div>
+    <div class="col-md-5">
+        <div class="form-group">
+            <label class="control-label col-form-label-sm">Page</label>
+            <div class="input-group mb-3">
+                <input class="form-control form-control-sm" placeholder="Page Name" id="page-name" />
+                <div class="input-group-append">
+                    <button class="btn btn-success btn-sm" id="btn-search-service-detail">Search</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-10" style="padding-left:0;padding-right:0;">
+        <table id="fields-detail-table" class="table table-borderless table-responsive">
+            <thead>
+                <tr>
+                    <td><label class="control-label col-form-label-sm">Field Name</label></td>
+                    <td><label class="control-label col-form-label-sm">Field Type</label></td>
+                    <td><label class="control-label col-form-label-sm">Max Length</label></td>
+                    <td><label class="control-label col-form-label-sm">Min Length</label></td>
+                    <td><label class="control-label col-form-label-sm">Required</label></td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><input type="text" class="form-control  form-control-sm" placeholder="Field Name" /></td>
+                    <td>
+                        @Html.DropDownList("data-type", new List<SelectListItem>
+                        {
+                            new SelectListItem {Text = "string", Value="string"  },
+                            new SelectListItem {Text = "int", Value="int"  },
+                            new SelectListItem {Text = "decimal", Value="decimal"  },
+                            new SelectListItem {Text = "DateTime", Value="DateTime"  },
+                            new SelectListItem {Text = "bool", Value="bool"  }
+                        }, new { @class = "form-control  form-control-sm" })
+                    </td>
+                    <td><input type="text" class="form-control  form-control-sm" placeholder="Max Length" value="50" /></td>
+                    <td><input type="text" class="form-control  form-control-sm" placeholder="Min Length" value="1" /></td>
+                    <td class="text-right"><input type="checkbox" /></td>
+                    <td><input type="button" class="btn btn-success btn-sm btn-clone-row" value="+" /></td>
+                    <td><input type="button" class="btn btn-danger btn-sm btn-remove-row-from-table" value="X" /></td>
+
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-2">
+        <button class="btn btn-primary btn-sm" id="btn-save" value="Save">
+            <span class="glyphicon glyphicon-save"></span> Save
+        </button>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-11 dange" id="div-message"></div>
+
+</div>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script>
+    $(function () {        
+        $("#fields-detail-table").on('click', '.btn-remove-row-from-table', function () {
+            $(this).closest('tr').remove();
+        });
+        $('#fields-detail-table').on('click', '.btn-clone-row', function () {
+            var $tr = $(this).closest('tr');
+            var $clone = $tr.clone();
+            //$clone.find(':text').val('');
+            $clone.find("td").eq(0).find('input:text').val('');
+            $tr.after($clone);
+        });
+        $('#btn-search-service-detail').click(function () {
+            $.ajax({
+                type: "POST",
+                url: "/DynamicObjects/GetServiceDetailByPage",
+                dataType: "JSON",
+                data: { service: $('#service-name option:selected').text(), page: $('#page-name').val() },
+                success: function (response) {
+                    console.log(JSON.stringify(response));
+                    $('#fields-detail-table tbody tr').each(function (index, row) {
+                        if (index > 0) {
+                            $(this).remove();
+                        }
+                        else {
+                            $(this).find("td").eq(0).find('input:text').val('');
+                        }
+                    })
+                    $.each(response, function (index, rowData) {
+                        var $tableBody = $('#fields-detail-table').find("tbody"),
+                            $tr_first = $tableBody.find("tr:first"),
+                            $tr_New = $tr_first.clone();
+                        if (index == 0) {
+                            $tr_first.find("td").eq(0).find('input:text').val(rowData.fieldName);
+                            $tr_first.find("td").eq(1).find('#data-type option:selected').text(rowData.fieldType);
+                            $tr_first.find("td").eq(2).find('input:text').val(rowData.maxLength);
+                            $tr_first.find("td").eq(3).find('input:text').val(rowData.minLength);
+                            $tr_first.find("td").eq(4).find('input:checkbox').prop('checked', rowData.isRequired);
+                            return true;
+                        }
+                        $tr_first.after($tr_New);
+                        $tr_New.find("td").eq(0).find('input:text').val(rowData.fieldName);
+                        $tr_New.find("td").eq(1).find('#data-type option:selected').text(rowData.fieldType);
+                        $tr_New.find("td").eq(2).find('input:text').val(rowData.maxLength);
+                        $tr_New.find("td").eq(3).find('input:text').val(rowData.minLength);
+                        $tr_New.find("td").eq(4).find('input:checkbox').prop('checked', rowData.isRequired);
+                    });
+
+                },
+                failure: function (response) {
+                }
+            });
+        });
+        $('#btn-save').click(function () {
+            var tableArray = [];
+            $('#fields-detail-table tbody tr').each(function () {
+                var inputData = {
+                    FieldName: $(this).find("td").eq(0).find('input:text').val(),
+                    FieldType: $(this).find("td").eq(1).find('#data-type option:selected').text(),
+                    MaxLength: parseInt($(this).find("td").eq(2).find('input:text').val()),
+                    MinLength: parseInt($(this).find("td").eq(3).find('input:text').val()),
+                    IsRequired: $(this).find("td").eq(4).find('input:checkbox').is(':checked')
+                }
+                tableArray.push(inputData);
+            });
+            var inputJSON =
+            {
+                Service: $('#service-name option:selected').text(),//$('#group-name').val(),
+                Page: $('#page-name').val(),
+                FieldsDetailDTO: tableArray
+            }
+            console.log(JSON.stringify(inputJSON));
+            $.ajax({
+                type: "POST",
+                url: "/DynamicObjects/Create",
+                contentType: "application/json",
+                dataType: "json",
+                data: JSON.stringify(inputJSON),
+                success: function (response) {
+                    console.log(JSON.stringify(response));
+
+                    if (response.isSuccess == true) {
+                        $('#div-message').html('<div class="col-md-12 alert alert-success" role="alert">' + response.message + '</div>');
+                    }
+                    else {
+                        $('#div-message').html('<div class="col-md-12 alert alert-warning" role="alert">' + response.message + '</div>');
+                    }
+                    $('#div-message').slideUp(2000);
+                    setTimeout(function () { $('#div-message').html(''); $('#div-message').removeAttr('style', 'display:none'); }, 2200);
+
+                },
+                failure: function (response) {
+                    $('#div-message').html('<div class="col-md-12 alert alert-danger" role="alert">An error occured while processing your request</div>');
+                    $('#div-message').slideUp(2000);
+                    setTimeout(function () { $('#div-message').html(''); $('#div-message').removeAttr('style', 'display:none'); }, 2200);
+                }
+            });
+        });
+        /*
+        $('#btn-add-row').click(function () {
+            var $tableBody = $('#fields-detail-table').find("tbody"),
+                $trLast = $tableBody.find("tr:last"),
+                $trNew = $trLast.clone();
+            $trLast.after($trNew);
+        });
+        */
+    });
+</script>
+<style>
+    .table th, .table td {
+        padding: 4px 0 0 15px;
+    }
+</style>
+

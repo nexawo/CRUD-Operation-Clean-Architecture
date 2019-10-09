@@ -1,0 +1,13 @@
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp2.2\Application.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp2.2\Application.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp2.2\Common.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp2.2\Domain.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp2.2\Common.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp2.2\Application.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp2.2\Application.pdb

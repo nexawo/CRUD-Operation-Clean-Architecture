@@ -1,0 +1,398 @@
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\libman.json
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.StaticWebAssets.xml
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.exe
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.deps.json
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.runtimeconfig.json
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.runtimeconfig.dev.json
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.Views.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.Views.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\CsvHelper.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\FluentValidation.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\FluentValidation.AspNetCore.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityModel.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityServer4.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityServer4.AspNetIdentity.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.Storage.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityServer4.Storage.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\MediatR.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Namotion.Reflection.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NJsonSchema.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NSwag.Annotations.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NSwag.AspNetCore.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NSwag.Core.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NSwag.Generation.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NSwag.Generation.AspNetCore.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Application.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Common.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Domain.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Infrastructure.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Persistence.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Common.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Persistence.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Application.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.csprojAssemblyReference.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\staticwebassets\WebApp.StaticWebAssets.xml
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorAssemblyInfo.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorAssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.AssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.TagHelpers.input.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.TagHelpers.output.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorCoreGenerate.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\DynamicObjects\Index.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Referral\Service1Referral.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Tenant\Add.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Tenant\Delete.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Tenant\Detail.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Tenant\Edit.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Tenant\List.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorTargetAssemblyInfo.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorTargetAssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.Views.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.csproj.CopyComplete
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Service\List.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Service\Add.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\User\List.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Add.cshtml.g.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Login.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.csprojAssemblyReference.cache
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\staticwebassets\WebApp.StaticWebAssets.xml
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorAssemblyInfo.cache
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorAssemblyInfo.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.AssemblyInfoInputs.cache
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.AssemblyInfo.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.TagHelpers.input.cache
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.TagHelpers.output.cache
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorCoreGenerate.cache
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.pdb
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\appsettings.json
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\libman.json
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.StaticWebAssets.xml
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.exe
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.deps.json
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.runtimeconfig.json
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.runtimeconfig.dev.json
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.pdb
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.Views.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\WebApp.Views.pdb
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\CsvHelper.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\FluentValidation.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\FluentValidation.AspNetCore.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityModel.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityServer4.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityServer4.AspNetIdentity.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityServer4.EntityFramework.Storage.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\IdentityServer4.Storage.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\MediatR.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.NodeServices.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Namotion.Reflection.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NJsonSchema.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NSwag.Annotations.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NSwag.AspNetCore.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NSwag.Core.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NSwag.Generation.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NSwag.Generation.AspNetCore.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Application.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Common.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Domain.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Infrastructure.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Persistence.dll
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Common.pdb
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Persistence.pdb
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Application.pdb
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\DynamicObjects\Index.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Add.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Employee\List.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Referral\Service1Referral.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Service\Add.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Service\List.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Tenant\Add.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Tenant\Delete.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Tenant\Detail.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Tenant\Edit.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Tenant\List.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\test\Service1test.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Add.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\User\List.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\User\Login.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorTargetAssemblyInfo.cache
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.RazorTargetAssemblyInfo.cs
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.Views.pdb
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\WebApp.csproj.CopyComplete
+D:\zipper\CleanArchitecture-master\Src\Presentation\WebApp\obj\Debug\netcoreapp3.0\Razor\Views\Employee\Detail.cshtml.g.cs

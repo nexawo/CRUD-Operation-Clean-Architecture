@@ -1,0 +1,26 @@
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp3.0\Application.deps.json
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp3.0\Application.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp3.0\Application.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp3.0\Common.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp3.0\Domain.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp3.0\Common.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.csprojAssemblyReference.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.csproj.CopyComplete
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.pdb
+D:\zipper\CleanArchitecture-master\Src\Core\Application\bin\Debug\netcoreapp3.0\Application.deps.json
+D:\zipper\CleanArchitecture-master\Src\Core\Application\bin\Debug\netcoreapp3.0\Application.dll
+D:\zipper\CleanArchitecture-master\Src\Core\Application\bin\Debug\netcoreapp3.0\Application.pdb
+D:\zipper\CleanArchitecture-master\Src\Core\Application\bin\Debug\netcoreapp3.0\Common.dll
+D:\zipper\CleanArchitecture-master\Src\Core\Application\bin\Debug\netcoreapp3.0\Domain.dll
+D:\zipper\CleanArchitecture-master\Src\Core\Application\bin\Debug\netcoreapp3.0\Common.pdb
+D:\zipper\CleanArchitecture-master\Src\Core\Application\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\zipper\CleanArchitecture-master\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.csprojAssemblyReference.cache
+D:\zipper\CleanArchitecture-master\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfoInputs.cache
+D:\zipper\CleanArchitecture-master\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfo.cs
+D:\zipper\CleanArchitecture-master\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.csproj.CopyComplete
+D:\zipper\CleanArchitecture-master\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.dll
+D:\zipper\CleanArchitecture-master\Src\Core\Application\obj\Debug\netcoreapp3.0\Application.pdb

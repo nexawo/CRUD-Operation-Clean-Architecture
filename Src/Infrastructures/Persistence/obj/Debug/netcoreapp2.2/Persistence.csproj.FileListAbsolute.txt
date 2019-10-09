@@ -1,0 +1,17 @@
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Persistence.deps.json
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Persistence.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Persistence.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Application.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Common.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Domain.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Infrastructure.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Application.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Common.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp2.2\Persistence.csprojAssemblyReference.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp2.2\Persistence.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp2.2\Persistence.AssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp2.2\Persistence.csproj.CopyComplete
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp2.2\Persistence.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp2.2\Persistence.pdb

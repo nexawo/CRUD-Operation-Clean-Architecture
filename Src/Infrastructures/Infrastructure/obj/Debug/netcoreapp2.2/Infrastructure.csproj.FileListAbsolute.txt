@@ -1,0 +1,15 @@
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\bin\Debug\netcoreapp2.2\Application.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\bin\Debug\netcoreapp2.2\Common.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\bin\Debug\netcoreapp2.2\Domain.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\bin\Debug\netcoreapp2.2\Application.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\bin\Debug\netcoreapp2.2\Common.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb

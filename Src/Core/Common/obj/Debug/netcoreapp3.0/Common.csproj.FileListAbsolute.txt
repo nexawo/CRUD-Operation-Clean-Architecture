@@ -1,0 +1,15 @@
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Common\bin\Debug\netcoreapp3.0\Common.deps.json
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Common\bin\Debug\netcoreapp3.0\Common.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Common\bin\Debug\netcoreapp3.0\Common.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.csprojAssemblyReference.cache
+D:\zipper\CleanArchitecture-master\Src\Core\Common\bin\Debug\netcoreapp3.0\Common.deps.json
+D:\zipper\CleanArchitecture-master\Src\Core\Common\bin\Debug\netcoreapp3.0\Common.dll
+D:\zipper\CleanArchitecture-master\Src\Core\Common\bin\Debug\netcoreapp3.0\Common.pdb
+D:\zipper\CleanArchitecture-master\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfoInputs.cache
+D:\zipper\CleanArchitecture-master\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfo.cs
+D:\zipper\CleanArchitecture-master\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.dll
+D:\zipper\CleanArchitecture-master\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.pdb

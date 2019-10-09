@@ -1,0 +1,41 @@
+﻿@model Nexawo.Application.Tenants.Queries.GetTenantDetail.TenantDetailVM
+
+@{
+    ViewData["Title"] = "Edit";
+
+}
+
+
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TenantId" class="control-label small"></label>
+                <input asp-for="TenantId" class="form-control form-control-sm" readonly />
+                <span asp-validation-for="TenantId" class="text-danger small"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label small"></label>
+                <input asp-for="Name" class="form-control form-control-sm" />
+                <span asp-validation-for="Name" class="text-danger small"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DBConnection" class="control-label small"></label>
+                <input asp-for="DBConnection" class="form-control form-control-sm" />
+                <span asp-validation-for="DBConnection" class="text-danger small"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary btn-sm">
+                    <i class="fa fa-save"></i> Save
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="List">Back to List</a>
+</div>
+

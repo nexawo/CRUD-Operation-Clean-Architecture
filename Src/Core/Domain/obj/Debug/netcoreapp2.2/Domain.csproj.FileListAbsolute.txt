@@ -1,0 +1,7 @@
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Core\Domain\obj\Debug\netcoreapp2.2\Domain.pdb

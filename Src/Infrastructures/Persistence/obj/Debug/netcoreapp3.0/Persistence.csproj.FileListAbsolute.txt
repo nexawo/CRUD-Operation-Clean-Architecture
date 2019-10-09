@@ -1,0 +1,38 @@
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Persistence.deps.json
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Persistence.runtimeconfig.json
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Persistence.runtimeconfig.dev.json
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Persistence.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Persistence.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Application.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Common.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Domain.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Infrastructure.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Application.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Common.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.csprojAssemblyReference.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfoInputs.cache
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfo.cs
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.csproj.CopyComplete
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.dll
+D:\Shahid Data\Workspace\Nexawo\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.pdb
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Persistence.deps.json
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Persistence.runtimeconfig.json
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Persistence.runtimeconfig.dev.json
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Persistence.dll
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Persistence.pdb
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Application.dll
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Common.dll
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Domain.dll
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Infrastructure.dll
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Application.pdb
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Common.pdb
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.csprojAssemblyReference.cache
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfoInputs.cache
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfo.cs
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.csproj.CopyComplete
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.dll
+D:\zipper\CleanArchitecture-master\Src\Infrastructures\Persistence\obj\Debug\netcoreapp3.0\Persistence.pdb
