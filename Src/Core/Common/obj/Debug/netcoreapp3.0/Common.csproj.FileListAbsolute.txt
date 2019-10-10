@@ -13,3 +13,4 @@ D:\zipper\CleanArchitecture-master\Src\Core\Common\obj\Debug\netcoreapp3.0\Commo
 D:\zipper\CleanArchitecture-master\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfo.cs
 D:\zipper\CleanArchitecture-master\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.dll
 D:\zipper\CleanArchitecture-master\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.pdb
+D:\zipper\CleanArchitecture-master\Src\Core\Common\obj\Debug\netcoreapp3.0\Common.csprojAssemblyReference.cache
